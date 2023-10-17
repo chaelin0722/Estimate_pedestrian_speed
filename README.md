@@ -1,6 +1,6 @@
-# Estimate_pedestrian_speed
+# Estimate pedestrian speed
 
-This is a code to detect pedestrian walking speed in crosswalk zone using YOLOv8 and Deepsort.
+This project is to detect pedestrian walking speed in crosswalk zone using YOLOv8 and Deepsort.
 
 Each bounding boxes are colored to blue (no motion), red (slow walker), yellow (average walker), and green (fast walker) to classify each pedestrian's walking speed. According to the real-time walking speed, the ETS will be shown in the last line in the bounding box. 
 
